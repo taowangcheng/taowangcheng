@@ -6,7 +6,9 @@
 </video>
 
 
-<a href=#><img src="giphy.gif"></a>
+<p align="center">
+    <a href=#><img src="giphy.gif"></a>
+</p>
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
