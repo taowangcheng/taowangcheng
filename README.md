@@ -5,6 +5,8 @@
     <source src="kuangbiao.mp4" type="video/mp4">
 </video>
 
+
+<a href=#><img src="giphy.gif"></a>
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
