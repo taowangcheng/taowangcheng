@@ -16,7 +16,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm WangchengTao(陶望成).<br>
+        I'm Wangcheng Tao(陶望成).<br>
         Currently learning to walk in ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
