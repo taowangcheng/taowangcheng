@@ -14,7 +14,7 @@
 
 ### 👤 About Me
 
-<img align="right" src="https://github.com/dang-mai/github-stats/blob/master/generated/languages.svg" />
+<img align="right" src="https://raw.githubusercontent.com/dang-mai/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 
 😈 HACK THE WORLD - TO DO IT.
 
