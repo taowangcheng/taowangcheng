@@ -11,6 +11,21 @@
   <img src="https://profile-counter.glitch.me/dang-mai/count.svg" />
 </p>
 
+
+### 👤 About Me
+
+<img align="right" src="https://github.com/dang-mai/github-stats/blob/master/generated/languages.svg" />
+
+😈 HACK THE WORLD - TO DO IT.
+
+- 🥸 Name: 「 Dang Mai 」
+- ✨ Job: Student
+- 🇨🇳 Website: 「 http://dang-mai.github.io/ 」
+- 💖 Favorite: 「 Code, Music 」
+- 💎 Team: [HUST](https://hust.edu.cn/)
+- 🏆 Project: [MalGenie](https://github.com/dang-mai/Malware-Source-Repos)、[LightGCN](https://github.com/dang-mai/LightGCN)、[RecEraser](https://github.com/dang-mai/RecEraser-Pytorch)...
+
+
 <h1 align="center">Hi, guys! 👋</h1>
 
 <p align="center">
