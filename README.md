@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/OHPZqOWeeQUlN4yeIw/giphy.gif)
+<!--- ![](https://media0.giphy.com/media/OHPZqOWeeQUlN4yeIw/giphy.gif) --->
 
 <p align="center">
     <a href=#><img src="giphy.gif"></a>
